@@ -1,0 +1,14 @@
+E:\Alexandra\proyectoMaquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.GeneratedMSBuildEditorConfig.editorconfig
+E:\Alexandra\proyectoMaquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.AssemblyInfoInputs.cache
+E:\Alexandra\proyectoMaquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.AssemblyInfo.cs
+E:\Alexandra\proyectoMaquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.csproj.CoreCompileInputs.cache
+E:\Alexandra\proyectoMaquina\proyectoMaquina\bin\Debug\net6.0\proyectoMaquina.exe
+E:\Alexandra\proyectoMaquina\proyectoMaquina\bin\Debug\net6.0\proyectoMaquina.deps.json
+E:\Alexandra\proyectoMaquina\proyectoMaquina\bin\Debug\net6.0\proyectoMaquina.runtimeconfig.json
+E:\Alexandra\proyectoMaquina\proyectoMaquina\bin\Debug\net6.0\proyectoMaquina.dll
+E:\Alexandra\proyectoMaquina\proyectoMaquina\bin\Debug\net6.0\proyectoMaquina.pdb
+E:\Alexandra\proyectoMaquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.dll
+E:\Alexandra\proyectoMaquina\proyectoMaquina\obj\Debug\net6.0\refint\proyectoMaquina.dll
+E:\Alexandra\proyectoMaquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.pdb
+E:\Alexandra\proyectoMaquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.genruntimeconfig.cache
+E:\Alexandra\proyectoMaquina\proyectoMaquina\obj\Debug\net6.0\ref\proyectoMaquina.dll
